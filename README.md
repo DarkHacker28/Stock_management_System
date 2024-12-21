@@ -75,7 +75,7 @@ Submit a pull request.
 
 
 # Contact : 
-For any questions or suggestions, feel free to reach out at your-email@example.com.
+For any questions or suggestions, feel free to reach out.
 
 Thank you for using the Stock Management System!
 
